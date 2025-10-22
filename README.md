@@ -3,7 +3,7 @@ Cleaned, analyzed, and visualized Amazon product sales data using Python and Pow
 The dataset used in this project is available publicly on Kaggle: https://www.kaggle.com/datasets/edusanketdk/electronics
 Task List:
 
- Import libraries and load data
- Clean and preprocess data
- Conduct exploratory data analysis
- Draw conclusions and insights
+ 1. Import libraries and load data
+ 2. Clean and preprocess data
+ 3. Conduct exploratory data analysis
+ 4. Draw conclusions and insights
